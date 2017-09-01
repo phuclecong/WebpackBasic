@@ -1,17 +1,18 @@
 # Command
-** Clean **
+**Clean**
 ```
 npm run clean
 ```
 
-** Build **
+**Build**
 ```
 npm run build
 ```
 
-** Start with webpack-dev-server**
+**Start with webpack-dev-server**
 ```
-npm run start```
+npm run start
+```
 
 # Webpack
 

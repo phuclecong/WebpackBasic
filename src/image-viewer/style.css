@@ -1,0 +1,6 @@
+.image-viewer {
+    display: block;
+    border: 5px solid #000;
+    max-width: 1000px;
+    margin-bottom: 20px;
+}
